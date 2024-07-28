@@ -1,3 +1,3 @@
-# efficiently-inefficient
+# Financial Economics
 
-Implementation of methods of Lasse Heje Pedersen's "Efficiently Inefficient".
+Notes and codes on financial economics.
