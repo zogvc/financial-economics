@@ -4,7 +4,7 @@ Notes and codes on financial economics.
 
 ## Contents
 
-This repository is mainly divided into three parts: `corporate-finance`, `asset-pricing`, `financial-econometrics`, and `appendix`.
+This repository is mainly divided into four parts: `corporate-finance`, `asset-pricing`, `financial-econometrics`, and `appendix`.
 
 Below is the list of topics covered (or to be upated) in each section.
 
